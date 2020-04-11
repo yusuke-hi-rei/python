@@ -1,0 +1,15 @@
+
+https://www.python.org/downloads/
+
+<Installation notes:>
+
+To check: Add python 3.* to PATH
+
+
+
+***************************************************************************
+To write the source, start IDLE.
+
+
+***************************************************************************
+*** For machine learning, PYTHON will be included when you install Anaconda.

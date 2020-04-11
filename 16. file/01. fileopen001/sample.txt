@@ -1,0 +1,5 @@
+This is sample test file.
+yusuke-hi-rei.
+welcome.
+Goodbye!
+ending...
